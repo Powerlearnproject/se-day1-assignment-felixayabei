@@ -6,7 +6,6 @@ Software Engineering Day1 Assignment
 
 Explain what software engineering is and discuss its importance in the technology industry.
 Software engineering is the systematic application of engineering principles, methods, and tools to the development and maintenance of high-quality software systems.
-
 Quality Assurance: Ensures that software systems are reliable, efficient, and meet user needs.
 Scalability: Facilitates the development of software that can grow and adapt to increasing demands.
 Cost Efficiency: Reduces the costs associated with software development and maintenance through structured processes.
@@ -15,10 +14,8 @@ Collaboration: Promotes teamwork and communication among developers, stakeholder
 Identify and describe at least three key milestones in the evolution of software engineering.
 1.The Birth of Software Engineering (1968):
 The term "software engineering" was coined during the NATO Software Engineering Conference, highlighting the need for a more disciplined approach to software development.
-
 2.The Waterfall Model (1970s):
 A linear and sequential approach to software development that established distinct phases (requirements, design, implementation, verification, maintenance).
-
 3.Agile Methodology (2001):
 Introduced the Agile Manifesto, emphasizing iterative development, customer collaboration, and flexibility in response to change.
 
